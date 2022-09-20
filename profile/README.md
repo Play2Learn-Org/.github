@@ -1,12 +1,24 @@
-## Hi there 👋
+# Play2Learn
 
-<!--
+We build simulations and open worlds for students of all ages and backgrounds,
+so they can explore, learn, experiment, innovate, and express their
+individuality.
 
-**Here are some ideas to get you started:**
+The environments we build should be fun to use, assessible by everybody, and built on sustainable and open technology.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We prefer an open licensing model for our content. Non-free and closed contributions need to show how these attributes will benefit the project goals.
+
+
+## Stack
+
+The goal is a wide framework of supported and integrated open source tools.
+
+To get started, we focus on this stack:
+
+ * Computers: Raspberry Pi - both as development environments and IoT controllers.
+ * OS: Linux 
+ * Programming Language: Python, Javascript
+ * Version Control: Git
+ * Editor: Vim
+ * UI: HTML5, CSS3, JS
+ * Gamedev: Godot
