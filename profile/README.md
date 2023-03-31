@@ -1,4 +1,4 @@
-# Play2Learn
+![Play2Learn Org Header](https://github.com/Play2Learn-Org/.github/blob/main/media/header.png)
 
 We build simulations and open worlds for students of all ages and backgrounds,
 so they can explore, learn, experiment, innovate, and express their
